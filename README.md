@@ -1,2 +1,2 @@
-# Desaf-o2_DMD
+# Desafio2_DMD
 Desafío Cubo OLAP
